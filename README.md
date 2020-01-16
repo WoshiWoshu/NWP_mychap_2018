@@ -1,5 +1,5 @@
 # NWP_mychap_2018
-Second year project in C++ in which the goal is to perform a challenge-handshake authentication protocol (CHAP) to an authen-ticating entity. In other word to create a client that interact with an authenticating entity (the server). It implements a low level protocol as a UDP client with different phases.
+Second year project in C in which the goal is to perform a challenge-handshake authentication protocol (CHAP) to an authen-ticating entity. In other word to create a client that interact with an authenticating entity (the server). It implements a low level protocol as a UDP client with different phases.
 
 USAGE :
 
